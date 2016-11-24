@@ -4,6 +4,6 @@ class ApplicationController < ActionController::Base
     render html: "hello, world!"
   end
   def myfirst
-    render html: "hello Warren2"
+    render html: "hello Warren"
   end
 end
